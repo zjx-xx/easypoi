@@ -17,4 +17,5 @@ public class Teacher {
     private String name;
     @Excel(name = "生日", format = "yyyy-MM-dd")
     private Date bir;
+    System.out.println("asddfg");
 }
